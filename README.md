@@ -1,18 +1,20 @@
-# Jadrien Roi Aguilar | HTML | CSS | Tailwind CSS | Javascript | PHP | MySQL
+# Jadrien Roi Aguilar
+
+Front-End Web Developer  
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-I'm a passionate front-end developer exploring modern web technologies. I enjoy building websites, experimenting with UI/UX designs, and continuously learning new frameworks and tools.
+I’m a front-end web developer focused on building clean, responsive, and user-friendly websites. I pay close attention to UI/UX and continuously improve my skills to create better web experiences.
 
-- 🌱 I’m currently learning **Advanced JavaScript**
-- 💻 I love **HTML, CSS, JavaScript, and Tailwind CSS**
-- 📫 How to reach me: **aujsc.aguilarjadrienroi@gmail.com**
+Currently expanding my knowledge in **React** and modern JavaScript.
+ 
+- Email: aujsc.aguilarjadrienroi@gmail.com  
 
 ---
 
-### 💻 Tech Stack
+## 💻 Tech Stack
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html" width="50" height="50"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=css" width="50" height="50"/>&nbsp;
@@ -24,7 +26,7 @@ I'm a passionate front-end developer exploring modern web technologies. I enjoy 
 
 ---
 
-### 🛠️ Tools
+## 🛠️ Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vscode" width="50" height="50"/>&nbsp;
@@ -34,20 +36,27 @@ I'm a passionate front-end developer exploring modern web technologies. I enjoy 
 
 ---
 
-### 🚀 Featured Project
+## 🚀 Project
 
-[![ShopEase](https://img.shields.io/badge/ShopEase-Ecommerce-blue?style=for-the-badge&logo=shopify&logoColor=white)](https://shop-ease.wuaze.com)
+### ShopEase – E-commerce Website  
+https://shop-ease.wuaze.com
 
-A modern e-commerce platform focused on user experience and seamless shopping.
+A full-stack e-commerce website built with a focus on usability and clean design.
+
+**Key Features:**
+- Product listing and browsing  
+- Shopping cart functionality  
+- User-focused interface design  
+- Backend integration using PHP & MySQL  
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 ![Jadrien's GitHub stats](https://github-readme-stats.vercel.app/api?username=jadrienoofy&show_icons=true&theme=radical)
 
 ---
 
-### 💡 Fun Fact
+## 🎯 Goal
 
-I enjoy **playing guitar, working out, and exploring new tech projects**.
+I’m currently open to **freelance opportunities** and **internship roles** where I can apply my skills and continue growing as a developer.
