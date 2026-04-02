@@ -1,27 +1,32 @@
-# Jadrien Roi Aguilar
+# 👋 Hi, I'm Jadrien Roi Aguilar | HTML | Tailwind CSS | JavaScript | PHP | MySQL
 
-Front-End Web Developer  
+💻 Front-End Web Developer  
+🎯 Focused on clean UI, responsive design, and smooth user experience  
 
 ---
 
 ## 👨‍💻 About Me
 
-I’m a front-end web developer focused on building clean, responsive, and user-friendly websites. I pay close attention to UI/UX and continuously improve my skills to create better web experiences.
+I’m a passionate front-end developer who enjoys building modern, responsive, and user-friendly websites. I focus on creating clean interfaces and continuously improving my skills to deliver better web experiences.
 
-Currently expanding my knowledge in **React** and modern JavaScript.
- 
-- Email: aujsc.aguilarjadrienroi@gmail.com  
+🚀 Currently learning:
+- React
+- Modern JavaScript (ES6+)
+- UI/UX improvements
+
+📩 Email: aujsc.aguilarjadrienroi@gmail.com  
 
 ---
 
 ## 💻 Tech Stack
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html" width="50" height="50"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=css" width="50" height="50"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=javascript" width="50" height="50"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=php" width="50" height="50"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=mysql" width="50" height="50"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=css" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=javascript" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=php" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=mysql" width="50" height="50"/>
 </p>
 
 ---
@@ -29,34 +34,41 @@ Currently expanding my knowledge in **React** and modern JavaScript.
 ## 🛠️ Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode" width="50" height="50"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=figma" width="50" height="50"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=visualstudio" width="50" height="50"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=figma" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=visualstudio" width="50" height="50"/>
 </p>
 
 ---
 
-## 🚀 Project
+## 🚀 Featured Project
 
-### ShopEase – E-commerce Website  
-https://shop-ease.wuaze.com
+### 🛒 ShopEase – E-commerce Website  
+🔗 https://shop-ease.wuaze.com  
 
-A full-stack e-commerce website built with a focus on usability and clean design.
+A full-stack e-commerce platform designed with usability and clean UI in mind.
 
-**Key Features:**
-- Product listing and browsing  
-- Shopping cart functionality  
-- User-focused interface design  
-- Backend integration using PHP & MySQL  
+✨ **Key Features:**
+- 🛍️ Product browsing & listing  
+- 🛒 Shopping cart system  
+- 🎨 Clean and responsive UI  
+- 🔐 Backend powered by PHP & MySQL  
 
 ---
 
 ## 📊 GitHub Stats
 
-![Jadrien's GitHub stats](https://github-readme-stats.vercel.app/api?username=jadrienoofy&show_icons=true&theme=radical)
+![Jadrien's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jadriendev&show_icons=true&theme=radical&count_private=true&cache_seconds=1800)
 
 ---
 
-## 🎯 Goal
+## 📈 GitHub Streak
 
-I’m currently open to **freelance opportunities** and **internship roles** where I can apply my skills and continue growing as a developer.
+![GitHub Streak](https://streak-stats.demolab.com?user=jadriendev&theme=radical)
+
+---
+
+## 🌐 Connect With Me
+
+- 📧 Email: aujsc.aguilarjadrienroi@gmail.com  
+- 🌐 Portfolio: https://jadrien-roi-portfolio.vercel.app
