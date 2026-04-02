@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Jadrien Roi Aguilar | HTML | Tailwind CSS | JavaScript | PHP | MySQL
+# Hi, I'm Jadrien Roi Aguilar | HTML | Tailwind CSS | JavaScript | PHP | MySQL
 
-💻 Front-End Web Developer  
+💻 Aspiring Front-End Web Developer  
 🎯 Focused on clean UI, responsive design, and smooth user experience  
 
 ---
