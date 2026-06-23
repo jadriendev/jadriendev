@@ -48,13 +48,20 @@ Email: aujsc.aguilarjadrienroi@gmail.com
 ### The VIP Club System  
  https://thevipclubdiamonds.com/vipclub_module.php 
 
-A full-stack e-commerce platform designed with usability and clean UI in mind.
+A secure presentation access platform built with PHP, MySQL, and Tailwind CSS, designed to manage exclusive video presentations and VIP member access.
 
 **Key Features:**
-- Product browsing & listing  
-- Shopping cart system  
-- Clean and responsive UI  
-- Backend powered by PHP & MySQL  
+
+- Multi-part presentation access system
+- Password-protected presentation modules
+- Admin dashboard for password management
+- Session-based authentication and access control
+- Video presentation integration (Vimeo)
+- Responsive user interface with Tailwind CSS
+- Dynamic password updates via database
+- Secure page restrictions and logout functionality
+- Mobile-friendly design
+- PHP & MySQL backend integration  
 
 ---
 
