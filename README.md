@@ -56,7 +56,7 @@ A secure presentation access platform built with PHP, MySQL, and Tailwind CSS, d
 - Password-protected presentation modules
 - Admin dashboard for password management
 - Session-based authentication and access control
-- Video presentation integration (Vimeo)
+- Video presentation integration
 - Responsive user interface with Tailwind CSS
 - Dynamic password updates via database
 - Secure page restrictions and logout functionality
