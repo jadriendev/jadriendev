@@ -10,9 +10,7 @@ Focused on clean UI, responsive design, and smooth user experience
 I’m a passionate front-end developer who enjoys building modern, responsive, and user-friendly websites. I focus on creating clean interfaces and continuously improving my skills to deliver better web experiences.
 
 Currently learning:
-- React
-- Modern JavaScript (ES6+)
-- UI/UX improvements
+- PHP Programming
 
 Email: aujsc.aguilarjadrienroi@gmail.com  
 
