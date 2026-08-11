@@ -113,6 +113,7 @@ A database-driven clinic management system designed to streamline patient record
 ## 📊 GitHub Activity
 
 <p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=jadriendev&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
   <img src="https://streak-stats.demolab.com?user=jadriendev&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
