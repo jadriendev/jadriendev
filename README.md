@@ -113,21 +113,12 @@ A database-driven clinic management system designed to streamline patient record
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jadriendev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
   <img src="https://streak-stats.demolab.com?user=jadriendev&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
 
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jadriendev/jadriendev/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-</p>
-
----
-
-## 🌐 Let's Connect
+## 🌐 Platforms
 
 <p align="left">
   <a href="https://www.linkedin.com/jadrien-roi-aguilar-42b993362/" target="_blank">
