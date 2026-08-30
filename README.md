@@ -39,8 +39,8 @@ I'm continuously improving my development skills by exploring modern technologie
 ### Frontend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML5"/>
-  <img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS3"/>
+  <img src="https://skillicons.dev/icons?i=react" width="48" alt="React"/>
+  <img src="https://skillicons.dev/icons?i=typescript" width="48" alt="TypeScript"/>
   <img src="https://skillicons.dev/icons?i=tailwind" width="48" alt="Tailwind CSS"/>
   <img src="https://skillicons.dev/icons?i=javascript" width="48" alt="JavaScript"/>
 </p>
