@@ -18,7 +18,7 @@ I'm continuously improving my development skills by exploring modern technologie
 
 - ⚛️ React
 - 🟨 Modern JavaScript (ES6+)
-- 🎨 UI/UX Design
+- 🎨 UI/UX Design (Web and Mobile)
 - 🔗 Full-Stack Web Development
 - 🧩 Modern Web Development Practices
 
@@ -27,6 +27,7 @@ I'm continuously improving my development skills by exploring modern technologie
 - 📱 Responsive Web Applications
 - 🎨 Modern & Clean Interfaces
 - ⚙️ Database-Driven Systems
+- 📱 Mobile UI
 - 🛒 E-Commerce Platforms
 - 📊 Management Systems
 - 🔐 CRUD-Based Applications
