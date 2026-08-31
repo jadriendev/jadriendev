@@ -1,126 +1,125 @@
-# 👋 Hi, I'm Jadrien Roi Aguilar
+# Hi, I'm Jadrien Roi Aguilar
 
-### 💻 Front-End Web Developer · Full-Stack Web Development
+### Aspiring Software Engineer
 
-> I build modern, responsive, and database-driven web applications with a strong focus on **clean UI, functionality, performance, and user experience.**
+**BS Information Technology · 3rd Year · Arellano University**
 
----
+I'm a BSIT student interested in building **modern web and mobile applications**. I enjoy turning ideas into practical software with clean interfaces, responsive layouts, and database-driven functionality.
 
-## 🚀 About Me
-
-I'm a passionate **Web Developer** who enjoys transforming ideas into functional, modern, and visually engaging digital experiences.
-
-My main stack includes **HTML, CSS, Tailwind CSS, JavaScript, PHP, and MySQL**, with a strong interest in building real-world applications backed by structured databases and dynamic functionality.
-
-I'm continuously improving my development skills by exploring modern technologies, better development practices, and user-centered design.
-
-### 📚 Currently Learning
-
-- ⚛️ React
-- 🟨 Modern JavaScript (ES6+)
-- 🎨 UI/UX Design (Web and Mobile)
-- 🔗 Full-Stack Web Development
-- 🧩 Modern Web Development Practices
-
-### 🎯 What I Enjoy Building
-
-- 📱 Responsive Web Applications
-- 🎨 Modern & Clean Interfaces
-- ⚙️ Database-Driven Systems
-- 📱 Mobile UI
-- 🛒 E-Commerce Platforms
-- 📊 Management Systems
-- 🔐 CRUD-Based Applications
-- 🚀 Full-Stack Web Solutions
+Currently expanding my skills in **full-stack web development, React, React Native, and TypeScript** while building projects that help me learn through real-world implementation.
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ Tech Stack
 
-### Frontend
+### Languages & Core Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react" width="48" alt="React"/>
-  <img src="https://skillicons.dev/icons?i=typescript" width="48" alt="TypeScript"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" width="48" alt="Tailwind CSS"/>
+  <img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML"/>
+  <img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS"/>
   <img src="https://skillicons.dev/icons?i=javascript" width="48" alt="JavaScript"/>
-</p>
-
-### Backend & Database
-
-<p align="left">
+  <img src="https://skillicons.dev/icons?i=typescript" width="48" alt="TypeScript"/>
   <img src="https://skillicons.dev/icons?i=php" width="48" alt="PHP"/>
-  <img src="https://skillicons.dev/icons?i=mysql" width="48" alt="MySQL"/>
 </p>
 
-### Development Tools
+### Frameworks & Libraries
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode" width="48" alt="VS Code"/>
-  <img src="https://skillicons.dev/icons?i=figma" width="48" alt="Figma"/>
-  <img src="https://skillicons.dev/icons?i=visualstudio" width="48" alt="Visual Studio"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" width="48" alt="Tailwind CSS"/>
+  <img src="https://skillicons.dev/icons?i=react" width="48" alt="React"/>
+  <img src="https://skillicons.dev/icons?i=react" width="48" alt="React Native"/>
+</p>
+
+### Database & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" width="48" alt="MySQL"/>
   <img src="https://skillicons.dev/icons?i=git" width="48" alt="Git"/>
   <img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=figma" width="48" alt="Figma"/>
+  <img src="https://skillicons.dev/icons?i=vscode" width="48" alt="VS Code"/>
 </p>
 
 ---
 
-## 🚀 Featured Project
+## 📚 Currently Learning
 
-### 💎 THE VIP Club Diamonds - Module System
-
-**Database-Driven Membership Management System**
-
-🔗 **Live Website:**  
-https://thevipclubdiamonds.com/vipclub_module.php
-
-A database-driven membership management system developed using **PHP and MySQL**, designed to efficiently manage member information, records, and system data through a dynamic web interface.
-
-### ✨ Key Features
-
-- 🗄️ MySQL database integration
-- ⚙️ PHP backend functionality
-- 📋 Dynamic data management
-- 🔐 Database-driven architecture
-- 📱 Responsive user interface
-- 🔄 CRUD-based operations
-- 🧩 Modular system structure
+* ⚛️ React
+* 📱 React Native
+* 🟦 TypeScript
+* 🔗 Full-Stack Web Development
+* 🎨 UI/UX Design
+* 🧩 Modern Web Development Practices
 
 ---
 
-## 🛍️ Other Projects
-
-### 🛒 ShopEase - E-Commerce Website
-
-A full-stack e-commerce platform built with **PHP and MySQL**, featuring product browsing, shopping cart functionality, and dynamic product management.
-
-🔗 **Live Demo:**  
-https://shop-ease.wuaze.com
-
-**Tech:** `PHP` `MySQL` `HTML` `CSS` `JavaScript`
-
----
+## 🚀 Featured Projects
 
 ### 🦷 Tarin-Morales Dental Clinic
 
 **Web-Based Dental Clinic Appointment & Patient Information Management System**
 
-A database-driven clinic management system designed to streamline patient records, appointments, dental information, and clinic workflows.
+A database-driven clinic management system designed to help streamline **patient records, appointments, dental information, and clinic workflows**.
 
-**Tech:** `PHP` `MySQL` `Tailwind CSS` `JavaScript`
+**Tech Stack**
+
+`PHP` `MySQL` `Tailwind CSS` `JavaScript`
+
+---
+
+### ⚡ Taskora
+
+**Developer-Focused Task Management Web Application**
+
+A personal web application designed specifically for developers to organize tasks, projects, and productivity workflows.
+
+Taskora is currently **under active development**, with plans to expand its features and functionality as I continue learning modern web development.
+
+**Tech Stack**
+
+`PHP` `MySQL` `HTML` `Tailwind CSS` `JavaScript`
+
+> 🚧 Currently in Development
+
+---
+
+### 💎 THE VIP Club Diamonds
+
+**Database-Driven Membership Management System**
+
+A web-based membership management system developed to manage member information, records, and other system data through a dynamic interface.
+
+**Tech Stack**
+
+`PHP` `MySQL` `HTML` `CSS` `JavaScript`
+
+🔗 **Live Website:** https://thevipclubdiamonds.com/vipclub_module.php
+
+---
+
+## 💡 What I Like Building
+
+* 🌐 Responsive Web Applications
+* 📱 Mobile Applications & Interfaces
+* ⚙️ Database-Driven Systems
+* 🛒 E-Commerce Platforms
+* 📊 Management Systems
+* 🔐 CRUD-Based Applications
+* 🎨 Clean & User-Friendly Interfaces
+* 🚀 Full-Stack Web Applications
 
 ---
 
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=jadriendev&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://streak-stats.demolab.com?user=jadriendev&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.shion.dev/api?username=jadriendev&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com?user=jadriendev&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
 </p>
 
 ---
 
-## 🌐 Platforms
+## 📬 Contact
 
 <p align="left">
   <a href="https://www.linkedin.com/jadrien-roi-aguilar-42b993362/" target="_blank">
@@ -140,10 +139,12 @@ A database-driven clinic management system designed to streamline patient record
   </a>
 </p>
 
+**Portfolio:**  https://jadrienroi.unaux.com
+
+**Email:** [aujsc.aguilarjadrienroi@gmail.com](mailto:aujsc.aguilarjadrienroi@gmail.com)
+
 ---
 
-## 📬 Contact
-
-📧 **Email:** aujsc.aguilarjadrienroi@gmail.com
-
-🌐 **Portfolio:**  https://jadrienroi.unaux.com
+<p align="center">
+  <i>Always learning. Always building. 🚀</i>
+</p>
