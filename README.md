@@ -27,7 +27,6 @@ Currently expanding my skills in **full-stack web development, React, React Nati
 <p align="left">
   <img src="https://skillicons.dev/icons?i=tailwind" width="48" alt="Tailwind CSS"/>
   <img src="https://skillicons.dev/icons?i=react" width="48" alt="React"/>
-  <img src="https://skillicons.dev/icons?i=react" width="48" alt="React Native"/>
 </p>
 
 ### Database & Tools
